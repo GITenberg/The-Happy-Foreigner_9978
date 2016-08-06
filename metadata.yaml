@@ -1,0 +1,34 @@
+_repo: The-Happy-Foreigner_9978
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bagnold, Enid
+    alias: Jones, Enid Bagnold, Lady
+    birthdate: 1889
+    deathdate: 1981
+    gutenberg_agent_id: '3229'
+    url: http://www.gutenberg.org/2009/agents/3229
+    wikipedia: http://en.wikipedia.org/wiki/Enid_Bagnold
+description: Fictional account of the author's experiences working as a volunteer
+  driver in France during the First World War. The war had stopped. The King of England
+  was in Paris, and the President of the United States was hourly expected. Humbler
+  guests poured each night from the termini into the overflowing city, and sought
+  anxiously for some bed, lounge-chair, or pillowed corner, in which to rest until
+  the morning. Stretched upon the table in a branch of the Y.W.C.A. lay a young woman
+  from England whose clothes were of brand-new khaki, and whose name was Fanny. She
+  had arrived that night at the Gare du Nord at eight o'clock, and the following night
+  at eight o'clock she left Paris by the Gare de l'Est.
+gutenberg_issued: '2006-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9978'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Happy Foreigner
+url: http://www.gutenberg.org/ebooks/9978
