@@ -1,5 +1,8 @@
 _repo: The-Happy-Foreigner_9978
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bagnold, Enid
@@ -18,6 +21,8 @@ description: Fictional account of the author's experiences working as a voluntee
   from England whose clothes were of brand-new khaki, and whose name was Fanny. She
   had arrived that night at the Gare du Nord at eight o'clock, and the following night
   at eight o'clock she left Paris by the Gare de l'Est.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9978#The-Happy-Foreigner
 gutenberg_issued: '2006-03-01'
 gutenberg_type: Text
 identifiers:
